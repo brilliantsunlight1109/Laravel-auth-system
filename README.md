@@ -136,5 +136,3 @@ Support follows PSR-2 PHP coding standards, and semantic versioning.
 
 Please report any issue you find in the issues page.
 Pull requests are welcome.
-
-thank

@@ -1,5 +1,5 @@
 
-# Kodeine/Laravel-ACL
+# Laravel-ACL
 
 [![Laravel](https://img.shields.io/badge/Laravel-~9.0-green.svg?style=flat-square)](http://laravel.com)
 [![Source](http://img.shields.io/badge/source-kodeine/laravel--acl-blue.svg?style=flat-square)](https://github.com/kodeine/laravel-acl/)
